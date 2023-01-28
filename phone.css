@@ -1,0 +1,29 @@
+.hero{
+    height:800px;
+display: flex;
+}
+.headings{
+    font-size: 1.7rem;
+}
+
+
+#intro h2{
+    font-size: 1.5rem;
+}
+.gallery img{
+    width: 275px;
+    height: 170px;
+    margin: 10px;
+}
+.input{
+    width:80%;
+}
+#msg{
+    width:70%;
+}
+#send{
+    width:80%;
+}
+.head{
+    color:black;
+}
